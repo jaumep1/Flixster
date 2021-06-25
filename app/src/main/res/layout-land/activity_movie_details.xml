@@ -18,6 +18,7 @@
         android:layout_marginTop="0dp"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
         android:textColor="#FFFFFF"
+        android:textStyle="bold"
         tools:text="Fast &amp; Furious Presents: Hobbs &amp; Shaw" />
 
     <RatingBar
@@ -31,6 +32,7 @@
         android:layout_marginTop="0dp"
         android:numStars="5"
         android:progressBackgroundTint="#FFFFFF"
+        android:progressTint="#FFFFFF"
         android:stepSize="0.5" />
 
     <TextView
